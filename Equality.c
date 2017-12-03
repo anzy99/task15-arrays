@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include "Equality.h"
 
-
+//my first commit
 
 int InputArray(const char *FileName, int **m, int *n)
 {int I,t,err=0;FILE *f;
